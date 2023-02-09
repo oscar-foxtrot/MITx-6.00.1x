@@ -3,7 +3,7 @@ epsilon = 0.01
 lo = balance / 12
 hi = balance * ((1 +  annualInterestRate / 12) ** 12) / 12
 
-while(True):
+while (True):
     curbalance = balance
     fmp = (hi + lo) / 2
     
