@@ -9,7 +9,7 @@ def hangman(secretWord):
           ' letters long.')
     delm = '------------'
     
-    tries = 8 # Changable
+    tries = 8  # Changable
     lettersGuessed = []
     mistakesMade = 0
     
