@@ -3,4 +3,4 @@
 
 This repo includes:
 * Problem Sets solutions
-* Programming exercises solutions
+* Programming Exercises solutions
