@@ -20,3 +20,5 @@ def getWordScore(word, n):
     
     if len(word) == n:
         scr += 50
+        
+    return scr
