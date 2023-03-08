@@ -1,6 +1,6 @@
 class CiphertextMessage(Message):
     def __init__(self, text):
-        '''
+        """
         Initializes a CiphertextMessage object
                 
         text (string): the message's text
@@ -8,11 +8,11 @@ class CiphertextMessage(Message):
         a CiphertextMessage object has two attributes:
             self.message_text (string, determined by input text)
             self.valid_words (list, determined using helper function load_words)
-        '''
+        """
         Message.__init__(self, text)
 
     def decrypt_message(self):
-        '''
+        """
         Decrypt self.message_text by trying every possible shift value
         and find the "best" one. We will define "best" as the shift that
         creates the maximum number of real words when we use apply_shift(shift)
@@ -26,7 +26,7 @@ class CiphertextMessage(Message):
 
         Returns: a tuple of the best shift value used to decrypt the message
         and the decrypted message text using that shift value
-        '''
+        """
         max_val = 0
         best_shift = 0
         
