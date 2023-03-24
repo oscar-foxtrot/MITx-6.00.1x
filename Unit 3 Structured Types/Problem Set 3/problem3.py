@@ -7,5 +7,5 @@ def getAvailableLetters(lettersGuessed):
     res = ''
     for c in 'abcdefghijklmnopqrstuvwxyz':
         if c not in lettersGuessed:
-            res += c
+            res += c 
     return res
