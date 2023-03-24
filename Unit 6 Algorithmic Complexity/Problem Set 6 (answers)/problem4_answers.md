@@ -11,7 +11,6 @@ Answer: O(1)
 def multlist(m, n):  
 <br />  
 &nbsp;&nbsp;&nbsp;&nbsp;'''  
-
 &nbsp;&nbsp;&nbsp;&nbsp;m is the multiplication factor    
 
 &nbsp;&nbsp;&nbsp;&nbsp;n is a list.   
