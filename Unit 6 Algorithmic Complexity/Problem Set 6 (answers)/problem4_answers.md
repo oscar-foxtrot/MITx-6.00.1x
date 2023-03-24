@@ -1,5 +1,5 @@
 4-1. Consider the following Python procedure. Specify its order of growth.  
-<br />  
+<br />
 def modten(n):    
 &nbsp;&nbsp;&nbsp;&nbsp;return n%10  
 <br />
