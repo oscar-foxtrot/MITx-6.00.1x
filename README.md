@@ -3,7 +3,7 @@ A course by Massachusetts Institute of Technology offered on edX platform
 6.00.1x, 2023, Spring  
 
 ### This repo includes:
-* Problem sets solutions
+* Problem sets solutions (answers)
 * Programming Exercises solutions
   
   
