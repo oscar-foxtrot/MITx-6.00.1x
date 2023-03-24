@@ -16,7 +16,7 @@ def multlist(m, n):
     '''  
     result = []  
     for i in range(len(n)):  
-        result.append(m*n[i])  
+        result.append(m\*n\[i\])  
     return result     
 <br />
 Answer:     
