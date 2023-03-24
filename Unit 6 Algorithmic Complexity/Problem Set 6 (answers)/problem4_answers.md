@@ -7,17 +7,17 @@ Answer: O(1)
 ##### FALSE    
 <br />
 <br />
-4-2. Consider the following Python procedure. Specify its order of growth.   
-def multlist(m, n):
-<br />
-    '''  
-    m is the multiplication factor  
-    n is a list.  
-    '''  
-    result = []  
-    for i in range(len(n)):  
-        result.append(m\*n\[i\])  
-    return result     
+4-2. Consider the following Python procedure. Specify its order of growth.     
+def multlist(m, n):  
+<br />  
+&nbsp;&nbsp;&nbsp;&nbsp;'''  
+&nbsp;&nbsp;&nbsp;&nbsp;m is the multiplication factor  
+&nbsp;&nbsp;&nbsp;&nbsp;n is a list.  
+&nbsp;&nbsp;&nbsp;&nbsp;'''  
+&nbsp;&nbsp;&nbsp;&nbsp;result = []  
+&nbsp;&nbsp;&nbsp;&nbsp;for i in range(len(n)):  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result.append(m\*n\[i\])  
+&nbsp;&nbsp;&nbsp;&nbsp;return result     
 <br />
 Answer:     
 ##### TRUE   
