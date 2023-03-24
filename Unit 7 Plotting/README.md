@@ -1,1 +1,1 @@
-# No programs in problem sets and programming exercises this week :)
+No programming exercises this week
