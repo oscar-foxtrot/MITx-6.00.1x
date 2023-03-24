@@ -10,10 +10,9 @@ Answer: O(1)
 4-2. Consider the following Python procedure. Specify its order of growth.       
 <br />  
 def multlist(m, n):  
-&nbsp;&nbsp;&nbsp;&nbsp;'''  
-&nbsp;&nbsp;&nbsp;&nbsp;m is the multiplication factor  
-
-&nbsp;&nbsp;&nbsp;&nbsp;n is a list.     
+&nbsp;&nbsp;&nbsp;&nbsp;'''<br />  
+&nbsp;&nbsp;&nbsp;&nbsp;m is the multiplication factor<br />  
+&nbsp;&nbsp;&nbsp;&nbsp;n is a list.<br />     
 
 &nbsp;&nbsp;&nbsp;&nbsp;'''      
 
