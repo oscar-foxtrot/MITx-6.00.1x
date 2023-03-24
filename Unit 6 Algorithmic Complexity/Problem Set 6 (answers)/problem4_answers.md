@@ -17,8 +17,8 @@ def multlist(m, n):
 &nbsp;&nbsp;&nbsp;&nbsp;for i in range(len(n)): <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result.append(m&ast;n[i])<br />
 &nbsp;&nbsp;&nbsp;&nbsp;return result <br />
-<br />  
-##### Answer: O(len(n))<br />         
+<br />
+##### Answer: O(len(n))             
 <br />
 <br />
 4-3. Consider the following Python procedure. Specify its order of growth.        
