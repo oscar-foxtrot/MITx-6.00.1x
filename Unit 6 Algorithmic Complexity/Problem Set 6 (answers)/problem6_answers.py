@@ -47,7 +47,7 @@ def modSwapSort(L):
 
 # What happens to the behavior of "swapSort" with this new code?
 
-# --> Answer: "modSwapSort" now orders the lsit in descending order for all lists
+# --> Answer: "modSwapSort" now orders the list in descending order for all lists
 
 #------------------------------------------
 #------------------------------------------
