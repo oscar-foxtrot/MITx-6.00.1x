@@ -2,7 +2,8 @@
 Answer:   
 ##### FALSE    
 Explanation: it is better for us if the program doesn't just return the correct answer, but rather does it quickly (we are interested in optimization)  
-...  
+<br />
+<br />
 1-2. When determining asymptotic complexity, we discard all terms except for the one with the largest growth rate.      
 Answer:     
 ##### TRUE  
