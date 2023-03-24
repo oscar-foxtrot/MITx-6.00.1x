@@ -7,6 +7,6 @@ while(True):
     if curbalance < 0:
         break
     else:
-        fmp += 10
+        fmp += 10 
         
 print(fmp)
