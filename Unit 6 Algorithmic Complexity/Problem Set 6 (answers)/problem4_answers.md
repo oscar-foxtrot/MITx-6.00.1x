@@ -3,7 +3,7 @@
 def modten(n):    
 &nbsp;&nbsp;&nbsp;&nbsp;return n%10  
 <br />
-Answer: O(1)        
+##### Answer: O(1)        
 <br />
 <br />
 4-2. Consider the following Python procedure. Specify its order of growth.       
@@ -18,19 +18,16 @@ def multlist(m, n):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result.append(m&ast;n[i])<br />
 &nbsp;&nbsp;&nbsp;&nbsp;return result <br />
 <br />
-Answer: O(len(n))<br />         
+##### Answer: O(len(n))<br />         
 <br />
 <br />
 4-3. Consider the following Python procedure. Specify its order of growth.        
-Answer:   
-##### TRUE     
+##### Answer:       
 <br />
 <br />
 4-4. Consider the following Python procedure. Specify its order of growth.    
-Answer:    
-##### FALSE     
+##### Answer:        
 <br />
 <br />
 4-5. Consider the following Python procedure. Specify its order of growth.    
-Answer:    
-##### FALSE   
+##### Answer:
