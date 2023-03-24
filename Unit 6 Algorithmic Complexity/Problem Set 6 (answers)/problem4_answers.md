@@ -22,7 +22,7 @@ def multlist(m, n):
 <br />
 <br />
 4-3. Consider the following Python procedure. Specify its order of growth.        
-##### Answer:       
+##### Answer:        
 <br />
 <br />
 4-4. Consider the following Python procedure. Specify its order of growth.    
