@@ -9,14 +9,14 @@ Answer: O(1)
 4-2. Consider the following Python procedure. Specify its order of growth.       
 <br /><br /> 
 def multlist(m, n):  
-&nbsp;&nbsp;&nbsp;&nbsp;'''<br />  
-&nbsp;&nbsp;&nbsp;&nbsp;m is the multiplication factor<br />  
-&nbsp;&nbsp;&nbsp;&nbsp;n is a list.<br />     
-&nbsp;&nbsp;&nbsp;&nbsp;''' <br />     
-&nbsp;&nbsp;&nbsp;&nbsp;result = [] <br />    
-&nbsp;&nbsp;&nbsp;&nbsp;for i in range(len(n)): <br />   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result.append(m&ast;n[i])<br />      
-&nbsp;&nbsp;&nbsp;&nbsp;return result <br />        
+&nbsp;&nbsp;&nbsp;&nbsp;'''<br />
+&nbsp;&nbsp;&nbsp;&nbsp;m is the multiplication factor<br />
+&nbsp;&nbsp;&nbsp;&nbsp;n is a list.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;''' <br />
+&nbsp;&nbsp;&nbsp;&nbsp;result = [] <br />
+&nbsp;&nbsp;&nbsp;&nbsp;for i in range(len(n)): <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result.append(m&ast;n[i])<br />
+&nbsp;&nbsp;&nbsp;&nbsp;return result <br />
 <br />
 Answer: O(len(n))<br />         
 <br />
