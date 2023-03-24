@@ -4,8 +4,10 @@ def modten(n):
     return n%10
   
 # --> Answer: O(1)
-------------------------------------------------  
-------------------------------------------------  
+
+#------------------------------------------------  
+#------------------------------------------------  
+
 # Problem 4-2: Consider the following Python procedure. Specify its order of growth.
 
 def multlist(m, n):
@@ -19,8 +21,10 @@ def multlist(m, n):
     return result 
 
 # --> Answer: O(len(n))
-------------------------------------------------  
-------------------------------------------------
+
+#------------------------------------------------  
+#------------------------------------------------
+
 # Problem 4-3: Consider the following Python procedure. Specify its order of growth.
 
 def foo(n):
@@ -29,8 +33,10 @@ def foo(n):
     return foo(n/2) + 1 
 
 # --> Answer: O(log(n))
-------------------------------------------------  
-------------------------------------------------
+
+#------------------------------------------------  
+#------------------------------------------------
+
 # Problem 4-4: Consider the following Python procedure. Specify its order of growth.
 
 def recur(n):
@@ -40,8 +46,10 @@ def recur(n):
         return n*recur(n-1)
 
 # --> Answer: O(n)
-------------------------------------------------  
-------------------------------------------------
+
+#------------------------------------------------  
+#------------------------------------------------
+
 # Problem 4-5: Consider the following Python procedure. Specify its order of growth.
 
 def baz(n):
