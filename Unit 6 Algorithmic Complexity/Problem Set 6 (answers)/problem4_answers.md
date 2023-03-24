@@ -18,7 +18,7 @@ def multlist(m, n):
 
 &nbsp;&nbsp;&nbsp;&nbsp;'''    
 
-&nbsp;&nbsp;&nbsp;&nbsp;result = []   
+&nbsp;&nbsp;&nbsp;&nbsp;result = \[\]   
 
 &nbsp;&nbsp;&nbsp;&nbsp;for i in range(len(n)):  
 
