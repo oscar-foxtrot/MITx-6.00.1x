@@ -19,4 +19,4 @@ Explanation: No, bisection search has the complexity of O(log(n))
 1-4. For large values of n, an algorithm that takes 20000n^2 steps has better time complexity (takes less time) than one that takes 0.001n^5 steps   
 Answer:    
 ##### TRUE   
-Explanation: The first mentioned algorithm has the complexity of O(n^2) while the latter has the complexity of O(n^5) (fist is better)   
+Explanation: The first mentioned algorithm has the complexity of O(n^2) while the latter has the complexity of O(n^5) (first is better)   
