@@ -10,6 +10,6 @@ for i in range(len(s) - 1):
             break
         j += 1
     if len(maxsub) < j - i:
-        maxsub = s[i : j]
+        maxsub = s[i : j] 
         
 print('Longest substring in alphabetical order is: ' + maxsub)
